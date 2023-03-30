@@ -1,3 +1,6 @@
 meal
 hamburger
 coke
+movie1
+movie2
+movie3
